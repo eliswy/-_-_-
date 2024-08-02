@@ -8,6 +8,12 @@
 * <font color="#FFD700">GIT CHECKOUT</font>
 * <font color="#FFD700">GIT CHECKOUT MASTER</font>
 * <font color="#FFD700">GIT DIFF</font>
+* <font color="#FFD700">Добавляем картинку</font>
+* <font color="#FFD700">git log --graph</font>
+* <font color="#FFD700">git merge</font>
+* <font color="#FFD700">git branch name_branch</font>
+* <font color="#FFD700">git branch -d</font>
+* <font color="#FFD700">git branch</font>
 
 ## GIT INIT 
 
@@ -61,7 +67,7 @@
 ## git merge
 
 Сливает ветку с текущей веткой 
-## git branch 
+## git branch name_branch
 Создаем новую ветку
 
 ## git branch -d
